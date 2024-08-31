@@ -24,7 +24,6 @@ aim({
 	clientY: 300
 });
 
-
 window.addEventListener("mousedown", draw);
 
 function draw(e) {
