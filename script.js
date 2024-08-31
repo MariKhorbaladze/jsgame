@@ -25,7 +25,6 @@ aim({
 });
 
 
-
 window.addEventListener("mousedown", draw);
 
 function draw(e) {
